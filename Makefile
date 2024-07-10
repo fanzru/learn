@@ -12,3 +12,9 @@ go-tree:
 
 go-leetcode-twosum:
 	go run go/leetcode/twosum/main.go
+
+go-leetcode-addtwonumbers:
+	go run go/leetcode/addtwonumbers/main.go
+
+go-single-linkedinlist:
+	go run go/single_linkedlist/main.go
