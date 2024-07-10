@@ -9,3 +9,6 @@ go-async-bg:
 
 go-tree:
 	go run go/tree/main.go
+
+go-leetcode-twosum:
+	go run go/leetcode/twosum/main.go
